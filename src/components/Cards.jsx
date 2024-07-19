@@ -30,6 +30,20 @@ const Cards =()=>{
                     sourcecode="https://github.com/kirchroland95/fistfighters"
                 />     
                 <Card 
+                    title="Photo Booth" 
+                    features={[
+                        "Vanilla JavaScript",
+                        "CSS Animations",
+                        "HTML5 Canvas"
+                      ]} 
+                    buttonText="Preview" 
+                    hyperlink="https://kirchroland95.github.io/photo-booth/"
+                    sourcecode="https://github.com/kirchroland95/photo-booth"
+                />            
+            </div>
+            <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
+                <div></div> {/* Empty div for the first column */}
+                <Card 
                     title="ReInvent" 
                     features={[
                         "Inventory Management App",
@@ -39,7 +53,7 @@ const Cards =()=>{
                     buttonText="In progress" 
                     hyperlink="https://kirchroland95.github.io/fistfighters/"
                     sourcecode=""
-                />            
+                />    
             </div>
         </div>
     )
