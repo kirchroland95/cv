@@ -47,11 +47,11 @@ const Cards =()=>{
                     title="ReInvent" 
                     features={[
                         "Inventory Management App",
-                        "Laravel",
-                        "React + Tailwind"
+                        "PHP",
+                        "Tailwind"
                       ]} 
                     buttonText="In progress" 
-                    hyperlink="https://kirchroland95.github.io/fistfighters/"
+                    hyperlink=""
                     sourcecode=""
                 />    
             </div>
