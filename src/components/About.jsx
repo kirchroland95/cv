@@ -8,7 +8,7 @@ const About =()=>{
             <p className="md:text-3xl sm:text-2xl text-xl font-bold pb-4 text-center">Embedded Software Developer with 5 Years of Experience in the Automotive Industry</p>
             <p className="md:text-3xl sm:text-2xl text-xl font-bold pb-4 text-center">Bachelor's and Master's Degrees in Computer Science</p>
             <p className="md:text-3xl sm:text-2xl text-xl font-bold pb-4 text-center">Dedicated to Continuous Learning Through Personal Projects and Exploration of New Technologies</p>
-            <p className="md:text-3xl sm:text-2xl text-xl font-bold pb-20 text-center text-[#007BFF] "><a href="https://www.linkedin.com/in/roland-kirch-1093361b1/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a></p>
+            <p className="md:text-3xl sm:text-2xl text-xl font-bold pb-20 text-center text-[#007BFF] "><a href="https://www.linkedin.com/in/roland-kirch/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a></p>
             <p className="text-xl text-center font-bold pb-20 text-gray-400 ">Copyright © {year} Kirch Roland</p>
         </div>
     )
